@@ -1,6 +1,6 @@
 # Eloquent_Shopping 
 
-![App_Screenshot](https://github.com/CSeddon01/Eloquent_Shopping/blob/main/Develop/assets/ES1.JPG)
+![App_Screenshot](https://github.com/CSeddon01/Eloquent_Shopping/blob/aa36267cefc9499746b651e11a97314c9af18b07/assets/ES1.JPG)
 
 # 🧐 Details 
 
